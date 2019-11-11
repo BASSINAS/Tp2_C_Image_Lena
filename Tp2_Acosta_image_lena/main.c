@@ -24,10 +24,9 @@ int main()
                 {
                     x+=pas;
                     tab[i]=f(x);
-                    //tab++;
                    // printf("%f,\t %f\n",x,*tab);
                     printf("%f\t tab[%f] = %f\n",x,x,tab[i]);
                 }
-               // fclose(fp);
+               writeToAFile (tab,n);
  return 0;
 }
