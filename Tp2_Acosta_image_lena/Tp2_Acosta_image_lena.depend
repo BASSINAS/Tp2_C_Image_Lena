@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573431533 source:/home/elec/MASTER 2 SYSTEMES EMBARQUES/C++/Tp2_Acosta/Tp2_C_Image_Lena/Tp2_Acosta_image_lena/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonction.h"
+
+1573431352 /home/elec/MASTER 2 SYSTEMES EMBARQUES/C++/Tp2_Acosta/Tp2_C_Image_Lena/Tp2_Acosta_image_lena/fonction.h
+
+1573431533 source:/home/elec/MASTER 2 SYSTEMES EMBARQUES/C++/Tp2_Acosta/Tp2_C_Image_Lena/Tp2_Acosta_image_lena/focntion.c
+	"fonction.h"
+	<math.h>
+
